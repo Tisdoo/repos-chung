@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\thuattoansapxep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C97C8A-C482-4923-BB41-90B3070BDE49}|thuattoansapxep\\thuattoansapxep.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\thuattoansapxep\\thuattoansapxep\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17C97C8A-C482-4923-BB41-90B3070BDE49}|thuattoansapxep\\thuattoansapxep.vcxproj|solutionrelative:thuattoansapxep\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\thuattoansapxep\\thuattoansapxep\\Source.cpp",
+              "RelativeDocumentMoniker": "thuattoansapxep\\Source.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\thuattoansapxep\\thuattoansapxep\\Source.cpp",
+              "RelativeToolTip": "thuattoansapxep\\Source.cpp",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T14:55:32.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

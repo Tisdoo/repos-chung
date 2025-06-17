@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\kienketdon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96ECB14B-3353-48BB-9B0E-3497035C2973}|kienketdon\\kienketdon.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\kienketdon\\kienketdon\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96ECB14B-3353-48BB-9B0E-3497035C2973}|kienketdon\\kienketdon.vcxproj|solutionrelative:kienketdon\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\kienketdon\\kienketdon\\Source.cpp",
+              "RelativeDocumentMoniker": "kienketdon\\Source.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\kienketdon\\kienketdon\\Source.cpp",
+              "RelativeToolTip": "kienketdon\\Source.cpp",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwNEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T12:39:23.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\Project11\FileName.cpp(21,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\Project11\FileName.cpp(23,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\Project11\FileName.cpp(43,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\Project11\FileName.cpp(45,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\Project11\FileName.cpp(52,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\Project11\FileName.cpp(54,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project11.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project11\x64\Debug\Project11.exe

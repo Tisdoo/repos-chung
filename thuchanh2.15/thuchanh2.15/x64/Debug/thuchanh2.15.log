@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(106,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(174,5): error C2065: 'queue': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(174,11): error C2062: type 'int' unexpected
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(182,17): error C2065: 'q': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(189,17): error C2065: 'q': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(200,31): error C2065: 'q': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(201,23): error C2065: 'q': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\thuchanh2.15\thuchanh2.15\Source.cpp(202,13): error C2065: 'q': undeclared identifier

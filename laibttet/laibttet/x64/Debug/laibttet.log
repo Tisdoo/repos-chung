@@ -1,0 +1,10 @@
+﻿  baitaptet.cpp
+/baitaptet.cpp(1,1): error C1083: Cannot open source file: 'baitaptet.cpp': No such file or directory
+  (compiling source file '/baitaptet.cpp')
+  
+  sapxepday.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\laibttet\laibttet\sapxepday.cpp(11,7): error C2084: function 'void nhapmang(int *,int)' already has a body
+      C:\Users\PC.DESKTOP-85V5Q0S\source\repos\laibttet\laibttet\sapxepday.cpp(3,6):
+      see previous definition of 'nhapmang'
+  
+  Generating Code...

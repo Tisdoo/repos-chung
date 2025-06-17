@@ -1,0 +1,16 @@
+﻿  p.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(13,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(13,9): warning C4313: 'printf': '%X' in format string conflicts with argument 1 of type 'int *'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(15,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(15,9): warning C4313: 'printf': '%X' in format string conflicts with argument 1 of type 'int **'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(15,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(15,9): warning C4313: 'printf': '%X' in format string conflicts with argument 2 of type 'int *'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(22,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(22,9):
+      consider using '%zd' in the format string
+  
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(24,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(24,9): warning C4313: 'printf': '%X' in format string conflicts with argument 1 of type 'int **'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(24,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\Project3\p.cpp(24,9): warning C4313: 'printf': '%X' in format string conflicts with argument 2 of type 'int *'
+  Project3.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project3\x64\Debug\Project3.exe

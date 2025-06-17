@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B658F6A-3E5E-4FFF-83D0-6413908EAB41}|Project6\\Project6.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project6\\Project6\\sas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B658F6A-3E5E-4FFF-83D0-6413908EAB41}|Project6\\Project6.vcxproj|solutionrelative:Project6\\sas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sas.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project6\\Project6\\sas.cpp",
+              "RelativeDocumentMoniker": "Project6\\sas.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project6\\Project6\\sas.cpp",
+              "RelativeToolTip": "Project6\\sas.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T07:41:16.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

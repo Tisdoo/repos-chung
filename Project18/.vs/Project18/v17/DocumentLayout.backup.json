@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE3992-0245-4A8F-A286-257631F1E0E1}|Project18\\Project18.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project18\\Project18\\testt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ACE3992-0245-4A8F-A286-257631F1E0E1}|Project18\\Project18.vcxproj|solutionrelative:Project18\\testt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\baitapantet\\lab 1b\\bai5lab b phan B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\baitapantet\\lab 1b\\bai4lab b phan B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\baitapantet\\lab 1b\\bai3lab b phan B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai5lab b phan B.cpp",
+              "DocumentMoniker": "D:\\New folder\\baitapantet\\lab 1b\\bai5lab b phan B.cpp",
+              "ToolTip": "D:\\New folder\\baitapantet\\lab 1b\\bai5lab b phan B.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:29:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai4lab b phan B.cpp",
+              "DocumentMoniker": "D:\\New folder\\baitapantet\\lab 1b\\bai4lab b phan B.cpp",
+              "ToolTip": "D:\\New folder\\baitapantet\\lab 1b\\bai4lab b phan B.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:24:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai3lab b phan B.cpp",
+              "DocumentMoniker": "D:\\New folder\\baitapantet\\lab 1b\\bai3lab b phan B.cpp",
+              "ToolTip": "D:\\New folder\\baitapantet\\lab 1b\\bai3lab b phan B.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:20:19.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testt.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project18\\Project18\\testt.cpp",
+              "RelativeDocumentMoniker": "Project18\\testt.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project18\\Project18\\testt.cpp*",
+              "RelativeToolTip": "Project18\\testt.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T12:20:14.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

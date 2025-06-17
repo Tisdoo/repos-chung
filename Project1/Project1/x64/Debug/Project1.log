@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project1\Project1\FileName.cpp(46,20): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project1\Project1\FileName.cpp(17,1): warning C4715: 'ktra': not all control paths return a value
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project1\Project1\FileName.cpp(43,1): warning C4715: 'tinhpt2': not all control paths return a value
+  Project1.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project1\x64\Debug\Project1.exe

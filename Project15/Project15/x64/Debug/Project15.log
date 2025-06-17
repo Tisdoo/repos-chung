@@ -1,0 +1,6 @@
+﻿  vd3.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project15\Project15\vd3.cpp(11,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project15\Project15\vd3.cpp(11,9): warning C4313: 'printf': '%X' in format string conflicts with argument 1 of type 'int **'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project15\Project15\vd3.cpp(11,9): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project15\Project15\vd3.cpp(11,9): warning C4313: 'printf': '%X' in format string conflicts with argument 2 of type 'int *'
+  Project15.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project15\x64\Debug\Project15.exe

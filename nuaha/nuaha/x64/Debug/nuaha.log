@@ -1,0 +1,3 @@
+﻿  chuoi1.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\nuaha\nuaha\chuoi1.cpp(15,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  nuaha.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\nuaha\x64\Debug\nuaha.exe

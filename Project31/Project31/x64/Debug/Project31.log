@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(9,2): error C2065: 'ifstream': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(9,11): error C2146: syntax error: missing ';' before identifier 'inp'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(9,11): error C3861: 'inp': identifier not found
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(10,2): error C2146: syntax error: missing ';' before identifier 'ofstream'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(10,2): error C2065: 'ofstream': undeclared identifier
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(10,11): error C2146: syntax error: missing ';' before identifier 'oup'
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(10,11): error C3861: 'oup': identifier not found
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project31\Project31\Source.cpp(13,1): error C2143: syntax error: missing ';' before '}'

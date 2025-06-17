@@ -1,0 +1,2 @@
+﻿sas.obj : error LNK2005: main already defined in FileName.obj
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project6\x64\Debug\Project6.exe : fatal error LNK1169: one or more multiply defined symbols found

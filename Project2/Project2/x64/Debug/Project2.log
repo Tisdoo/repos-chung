@@ -1,0 +1,6 @@
+﻿đmm lập trình.obj : error LNK2005: "void __cdecl Giatri(int * const,int,int &,int &)" (?Giatri@@YAXQEAHHAEAH1@Z) already defined in dmm code.obj
+đmm lập trình.obj : error LNK2005: "void __cdecl Sotrung(int * const,int)" (?Sotrung@@YAXQEAHH@Z) already defined in dmm code.obj
+đmm lập trình.obj : error LNK2005: "int __cdecl Tong(int * const,int)" (?Tong@@YAHQEAHH@Z) already defined in dmm code.obj
+đmm lập trình.obj : error LNK2005: "int __cdecl ktrsSNT(int)" (?ktrsSNT@@YAHH@Z) already defined in dmm code.obj
+đmm lập trình.obj : error LNK2005: "void __cdecl nhapmang(int * const,int)" (?nhapmang@@YAXQEAHH@Z) already defined in dmm code.obj
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project2\x64\Debug\Project2.exe : fatal error LNK1169: one or more multiply defined symbols found

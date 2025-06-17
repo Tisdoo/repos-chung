@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\nuaha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC779F7D-4535-4C86-8E33-8991A16E49EE}|nuaha\\nuaha.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\nuaha\\nuaha\\chuoi1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC779F7D-4535-4C86-8E33-8991A16E49EE}|nuaha\\nuaha.vcxproj|solutionrelative:nuaha\\chuoi1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chuoi1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\nuaha\\nuaha\\chuoi1.cpp",
+              "RelativeDocumentMoniker": "nuaha\\chuoi1.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\nuaha\\nuaha\\chuoi1.cpp",
+              "RelativeToolTip": "nuaha\\chuoi1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T07:29:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

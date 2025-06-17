@@ -1,0 +1,6 @@
+﻿Build started at 6:32 PM...
+1>------ Build started: Project: Dieuphoitientrinh, Configuration: Debug x64 ------
+1>Source.cpp
+1>Dieuphoitientrinh.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Dieuphoitientrinh\x64\Debug\Dieuphoitientrinh.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 6:32 PM and took 01.505 seconds ==========

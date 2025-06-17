@@ -1,0 +1,3 @@
+﻿  bai2 minh hoa.cpp
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project20\Project20\bai2 minh hoa.cpp(9,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project20.vcxproj -> C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project20\x64\Debug\Project20.exe

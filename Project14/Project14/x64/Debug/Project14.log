@@ -1,0 +1,2 @@
+﻿vd2laba.obj : error LNK2005: main already defined in vd1lab a.obj
+C:\Users\PC.DESKTOP-85V5Q0S\source\repos\Project14\x64\Debug\Project14.exe : fatal error LNK1169: one or more multiply defined symbols found

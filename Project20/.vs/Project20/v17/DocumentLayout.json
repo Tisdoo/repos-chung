@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB93789B-7D89-40B3-908F-60070C9CCEB5}|Project20\\Project20.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project20\\Project20\\bai2 minh hoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB93789B-7D89-40B3-908F-60070C9CCEB5}|Project20\\Project20.vcxproj|solutionrelative:Project20\\bai2 minh hoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai2 minh hoa.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project20\\Project20\\bai2 minh hoa.cpp",
+              "RelativeDocumentMoniker": "Project20\\bai2 minh hoa.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project20\\Project20\\bai2 minh hoa.cpp",
+              "RelativeToolTip": "Project20\\bai2 minh hoa.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T14:26:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

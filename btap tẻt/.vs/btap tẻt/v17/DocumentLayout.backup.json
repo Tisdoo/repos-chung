@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\btap t\u1EBBt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E302DAC-6968-4B54-9B08-112791B26410}|btap t\u1EBBt\\btap t\u1EBBt.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\btap t\u1EBBt\\btap t\u1EBBt\\tete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E302DAC-6968-4B54-9B08-112791B26410}|btap t\u1EBBt\\btap t\u1EBBt.vcxproj|solutionrelative:btap t\u1EBBt\\tete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tete.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\btap t\u1EBBt\\btap t\u1EBBt\\tete.cpp",
+              "RelativeDocumentMoniker": "btap t\u1EBBt\\tete.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\btap t\u1EBBt\\btap t\u1EBBt\\tete.cpp*",
+              "RelativeToolTip": "btap t\u1EBBt\\tete.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T11:08:01.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

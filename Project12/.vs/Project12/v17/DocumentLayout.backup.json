@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF8E5D9-C5D8-445B-802C-FA2CF776612F}|Project12\\Project12.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\Project12\\l.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF8E5D9-C5D8-445B-802C-FA2CF776612F}|Project12\\Project12.vcxproj|solutionrelative:Project12\\l.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF8E5D9-C5D8-445B-802C-FA2CF776612F}|Project12\\Project12.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\Project12\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF8E5D9-C5D8-445B-802C-FA2CF776612F}|Project12\\Project12.vcxproj|solutionrelative:Project12\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "l.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\Project12\\l.cpp",
+              "RelativeDocumentMoniker": "Project12\\l.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\Project12\\l.cpp*",
+              "RelativeToolTip": "Project12\\l.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T07:45:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\Project12\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project12\\FileName.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project12\\Project12\\FileName.cpp",
+              "RelativeToolTip": "Project12\\FileName.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T05:22:17.828Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

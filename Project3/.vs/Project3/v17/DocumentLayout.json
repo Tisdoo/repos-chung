@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FBF5B1-2598-4965-AECB-F3FDA72D1E6B}|Project3\\Project3.vcxproj|C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project3\\Project3\\p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6FBF5B1-2598-4965-AECB-F3FDA72D1E6B}|Project3\\Project3.vcxproj|solutionrelative:Project3\\p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p.cpp",
+              "DocumentMoniker": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project3\\Project3\\p.cpp",
+              "RelativeDocumentMoniker": "Project3\\p.cpp",
+              "ToolTip": "C:\\Users\\PC.DESKTOP-85V5Q0S\\source\\repos\\Project3\\Project3\\p.cpp",
+              "RelativeToolTip": "Project3\\p.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T08:04:04.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
